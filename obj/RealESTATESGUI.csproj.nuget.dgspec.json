@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Kurucz\\Desktop\\KÜLKER2ÉV\\SZAKMAI_GYAK\\Szoftverfejleszto es -tesztelo szakmai zarovizsga feladatok megoldasok\\Megoldasok\\1. programozás\\REAL\\RealESTATESGUI\\RealESTATESGUI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Kurucz\\Desktop\\KÜLKER2ÉV\\SZAKMAI_GYAK\\Szoftverfejleszto es -tesztelo szakmai zarovizsga feladatok megoldasok\\Megoldasok\\1. programozás\\REAL\\RealESTATESGUI\\RealESTATESGUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kurucz\\Desktop\\KÜLKER2ÉV\\SZAKMAI_GYAK\\Szoftverfejleszto es -tesztelo szakmai zarovizsga feladatok megoldasok\\Megoldasok\\1. programozás\\REAL\\RealESTATESGUI\\RealESTATESGUI.csproj",
+        "projectName": "RealESTATESGUI",
+        "projectPath": "C:\\Users\\Kurucz\\Desktop\\KÜLKER2ÉV\\SZAKMAI_GYAK\\Szoftverfejleszto es -tesztelo szakmai zarovizsga feladatok megoldasok\\Megoldasok\\1. programozás\\REAL\\RealESTATESGUI\\RealESTATESGUI.csproj",
+        "packagesPath": "C:\\Users\\Kurucz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kurucz\\Desktop\\KÜLKER2ÉV\\SZAKMAI_GYAK\\Szoftverfejleszto es -tesztelo szakmai zarovizsga feladatok megoldasok\\Megoldasok\\1. programozás\\REAL\\RealESTATESGUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kurucz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.3.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

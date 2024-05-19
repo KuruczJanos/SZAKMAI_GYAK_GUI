@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "I9FSahFoy+62jXhlqzp4RE5CM7QJTtXR6V8e+HRZGAe+TOuenGP2SfN4AmiYxAif79k3ZRzxiv56WCbxzvSd2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kurucz\\Desktop\\KÜLKER2ÉV\\SZAKMAI_GYAK\\Szoftverfejleszto es -tesztelo szakmai zarovizsga feladatok megoldasok\\Megoldasok\\1. programozás\\REAL\\RealESTATESGUI\\RealESTATESGUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kurucz\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\Kurucz\\.nuget\\packages\\mysqlconnector\\2.3.7\\mysqlconnector.2.3.7.nupkg.sha512",
+    "C:\\Users\\Kurucz\\.nuget\\packages\\system.diagnostics.diagnosticsource\\7.0.2\\system.diagnostics.diagnosticsource.7.0.2.nupkg.sha512",
+    "C:\\Users\\Kurucz\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
